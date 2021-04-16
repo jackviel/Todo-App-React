@@ -1,4 +1,4 @@
-# Todo App made with react.js
+# Todo app made with react.js
 
 Simple react.js todo app made with the help of a couple youtube videos, mostly just fiddlin' with react/js/css/html. :)
 
